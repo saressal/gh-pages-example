@@ -14,3 +14,4 @@ title: Example
 - Some event
 - Another exciting event
 - More news
+- Christmas Party!
